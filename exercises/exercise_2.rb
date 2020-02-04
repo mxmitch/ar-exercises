@@ -12,7 +12,7 @@ store = Store.find_by(id:1)
 store2 = Store.find_by(id:2)
 @store2 = store2 
 
-@store1.update(name: "Whistler")
+@store1.update(name: "New Westminster")
 
 
 
